@@ -46,7 +46,7 @@ Throughout this level you can learn how to search for hidden files in a director
 **Exact Commands:**
 ```bash
 # Connect to the server
-ssh bandit2@bandit.labs.overthewire.org -p 2220
+ssh bandit3@bandit.labs.overthewire.org -p 2220
 
 # Execute the solution
 1. cd inhere
