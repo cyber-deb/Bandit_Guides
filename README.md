@@ -271,7 +271,7 @@ My progress through the Bandit levels:
 * [ ] Level 31 → 32
 * [ ] Level 32 → 33
 
-> 🚧 **This repository is actively being updated. More write-ups will be added as I progress through the wargame.**
+> 🚧 **This repository is actively being updated. More write-ups will be added as I upload my writeups.**
 
 ---
 
