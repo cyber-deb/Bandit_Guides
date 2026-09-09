@@ -27,8 +27,8 @@ Try to solve the level after reading each hint before moving on to the next one!
 
 ## 🚶‍♂️ Step-by-Step Methodology
 1. **[Step 1 Action]:** Using ssh command first log in into bandit1 where the - file exists. 
-3. **[Step 2 Action]:** Use find command with specific flags like -size, -type -user -group etc. to find out the file.
-4. **[Step 3 Action]:** Then learn a bit about piping and redirection beforehand from here as it may require to send the error messages outside from the output result. (Helpful resource: https://ryanstutorials.net/linuxtutorial/piping.php ) [N.B.: you don't generally need to learn this a lot else you output can be a little messy to find the exact file]
+2. **[Step 2 Action]:** Use find command with specific flags like -size, -type -user -group etc. to find out the file.
+3. **[Step 3 Action]:** Then learn a bit about piping and redirection beforehand from here as it may require to send the error messages outside from the output result. (Helpful resource: https://ryanstutorials.net/linuxtutorial/piping.php ) [N.B.: you don't generally need to learn this a lot else you output can be a little messy to find the exact file]
 ---
 
 ## 🧠 Key Takeaway
@@ -46,7 +46,7 @@ Throughout this level you can learn how to use find command to find out specific
 **Exact Commands:**
 ```bash
 # Connect to the server
-ssh bandit5@bandit.labs.overthewire.org -p 2220
+ssh bandit6@bandit.labs.overthewire.org -p 2220
 
 # Execute the solution
 1. find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
