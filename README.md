@@ -244,10 +244,10 @@ My progress through the Bandit levels:
 * [x] Level 4 → 5
 * [x] Level 5 → 6
 * [x] Level 6 → 7
-* [ ] Level 7 → 8
-* [ ] Level 8 → 9
-* [ ] Level 9 → 10
-* [ ] Level 10 → 11
+* [x] Level 7 → 8
+* [x] Level 8 → 9
+* [x] Level 9 → 10
+* [x] Level 10 → 11
 * [ ] Level 11 → 12
 * [ ] Level 12 → 13
 * [ ] Level 13 → 14
