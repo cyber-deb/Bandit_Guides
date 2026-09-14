@@ -23,7 +23,7 @@ Try to solve the level after reading each hint before moving on to the next one!
 ---
 
 ## 🚶‍♂️ Step-by-Step Methodology
-1. **[Step 1 Action]:** Using ssh command first log in into bandit11. 
+1. **[Step 1 Action]:** Using ssh command first log in into bandit10. 
 2. **[Step 2 Action]:** Use base64 to decode the content of data.txt
 
 
