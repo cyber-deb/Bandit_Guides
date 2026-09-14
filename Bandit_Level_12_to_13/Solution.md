@@ -29,7 +29,7 @@ Try to solve the level after reading each hint before moving on to the next one!
 ---
 
 ## 🚶‍♂️ Step-by-Step Methodology
-1. **[Step 1 Action]:** Using ssh command first log in into bandit1 where the - file exists. 
+1. **[Step 1 Action]:** Using ssh command first log in into bandit12. 
 2. **[Step 2 Action]:** Use mkdir create a new drectory in tmp and copy the file there using cp
 3. **[Step 3 Action]:** Then use file to know the type of file data.txt is and change the extension using rename feature of mv.
 4. **[Step 3 Action]:** Then use gunzip, bunzip, tar -xf or xxd -r accordingly till you get an ASCII file and theat's your password
