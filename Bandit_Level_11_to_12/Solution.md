@@ -22,7 +22,7 @@ Try to solve the level after reading each hint before moving on to the next one!
 ---
 
 ## 🚶‍♂️ Step-by-Step Methodology
-1. **[Step 1 Action]:** Using ssh command first log in into bandit1 where the - file exists. 
+1. **[Step 1 Action]:** Using ssh command first log in into bandit11. 
 2. **[Step 2 Action]:** Use cat to show the output and pipe it into tr command with proper pattern to translate the contents accordingly.
 
 
