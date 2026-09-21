@@ -42,6 +42,6 @@ Throughout this level you can learn what setuid really is and how it acts. SUID 
 ```bash
 
 # Execute the solution
-1. ssh bandit17@bandit.labs.overthewire.org -p 2220
+1. ssh bandit19@bandit.labs.overthewire.org -p 2220
 2. ls -l ./bandit20-do  #jsut to check whether its setuid or not
 3. ./bandit20-do cat /etc/bandit_pass/bandit20
