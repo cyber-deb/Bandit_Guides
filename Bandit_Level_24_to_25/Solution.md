@@ -58,5 +58,5 @@ Inside pass.sh
 for i in {0000..9999}; do
   echo "hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv $i"
 done | nc localhost 30002
-3.chmod +x /tmp/pass.sh
-4../tmp/pass.sh
+3. chmod +x /tmp/pass.sh
+4. ./tmp/pass.sh
