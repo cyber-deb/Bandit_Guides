@@ -17,7 +17,7 @@ Before attempting this level, you should understand how to use the following com
 ```bash
   for [variable_name] in {start_range..end_range}; do
      <content to repeat>
-   done
+  done
 ```
  where the start_range is from where you want to start the iteration and stop_range is where to close the iteration. And to implement the variable in anywhere you have to use the variable name with a $ sign at the beginning so that the bash can understand that that is calling the value of the variable.
   
