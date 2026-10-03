@@ -13,10 +13,10 @@ Before attempting this level, you should understand how to use the following com
 * `ssh` - ssh stands for secure shell. It helps us to connect a remote server over private key or password and access the contents of that server. Syntax: ssh 
 [option value] username@hostname. Various options included -p to specify port number, -i to specify private key etc. Type quit to exit a ssh session. 
 * `nc` - Full from of netcat. It helps to connect to a remote server and can interchange info accordingly. Basic syntax: nc [option] HOST PORT. There are few options including -l for listen mode, -u for UDP mode (generally nc works on TCP mode), -z to scan the network, -w to wait before terminating connection etc. Other similar tools are ncat (upgraded version of nc with more option such as --read-only, --send-only), telnet (very popular to connect over tcp), socat (to connect with any protocol to any protocol) etc.
-* `bash` - Bash is a command-line shell used to interact with Linux/Unix systems. It also allows you to write scripts to automate tasks and run commands. To learn more about bash go through You Suck At Programming's video (https://www.youtube.com/watch?v=Sx9zG7wa4FA). For this level, remember this, Every scripting language starts with a shebang and for bash, it is #! and next the /bin/bash which specifies which scripting language should be used to execute this file as there are multiple shells like bash such as FISH or zsh etc. [in altogether, the first line is #!/bin/bash]. In this specific level, you need to know how to use for loop. for loops starts with
-   for [variable_name] in {start_range..end_range}; do
+* `bash` - Bash is a command-line shell used to interact with Linux/Unix systems. It also allows you to write scripts to automate tasks and run commands. To learn more about bash go through You Suck At Programming's video (https://www.youtube.com/watch?v=Sx9zG7wa4FA). For this level, remember this, Every scripting language starts with a shebang and for bash, it is #! and next the /bin/bash which specifies which scripting language should be used to execute this file as there are multiple shells like bash such as FISH or zsh etc. [in altogether, the first line is #!/bin/bash]. In this specific level, you need to know how to use for loop. [for loops starts with
+  for [variable_name] in {start_range..end_range}; do
      <content to repeat>
-   done
+   done]
  where the start_range is from where you want to start the iteration and stop_range is where to close the iteration. And to implement the variable in anywhere you have to use the variable name with a $ sign at the beginning so that the bash can understand that that is calling the value of the variable.
   
 ## 💡 Progressive Hints
