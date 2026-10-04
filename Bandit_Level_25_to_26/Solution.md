@@ -57,13 +57,13 @@ Throughout this level you can learn where to find the shell information. How to 
 
 # Execute the solution
 1. ssh bandit25@bandit.labs.overthewire.org -p 2220
-2. cat bandit26.sshkey [copy it in your local system and save it with name bandit26.private and use chmod 600 bandit26.private]
+2. cat bandit26.sshkey #[copy it in your local system and save it with name bandit26.private and use chmod 600 bandit26.private]
 3. cat /etc/passwd | grep bandit26
 4. cat /usr/bin/showtext
 5. exit
-[Resize the terminal window as small as possible]
+#[Resize the terminal window as small as possible]
 6. ssh bandit26@bandit.labs.overthewire.org -p 2220 -i bandit26.private
-[If you see something like more(52%), press V to enter vi editor, then press Esc and type]
+#[If you see something like more(52%), press V to enter vi editor, then press Esc and type]
 7. :set shell=/bin/bash  --> Enter
 8. Esc --> :shell
 9. cat /etc/bandit_pass/bandit26
