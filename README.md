@@ -254,15 +254,15 @@ My progress through the Bandit levels:
 * [x] Level 14 → 15
 * [x] Level 15 → 16
 * [x] Level 16 → 17
-* [ ] Level 17 → 18
-* [ ] Level 18 → 19
-* [ ] Level 19 → 20
-* [ ] Level 20 → 21
-* [ ] Level 21 → 22
-* [ ] Level 22 → 23
-* [ ] Level 23 → 24
-* [ ] Level 24 → 25
-* [ ] Level 25 → 26
+* [x] Level 17 → 18
+* [x] Level 18 → 19
+* [x] Level 19 → 20
+* [x] Level 20 → 21
+* [x] Level 21 → 22
+* [x] Level 22 → 23
+* [x] Level 23 → 24
+* [x] Level 24 → 25
+* [x] Level 25 → 26
 * [ ] Level 26 → 27
 * [ ] Level 27 → 28
 * [ ] Level 28 → 29
