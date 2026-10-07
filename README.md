@@ -263,10 +263,10 @@ My progress through the Bandit levels:
 * [x] Level 23 → 24
 * [x] Level 24 → 25
 * [x] Level 25 → 26
-* [ ] Level 26 → 27
-* [ ] Level 27 → 28
-* [ ] Level 28 → 29
-* [ ] Level 29 → 30
+* [x] Level 26 → 27
+* [x] Level 27 → 28
+* [x] Level 28 → 29
+* [x] Level 29 → 30
 * [ ] Level 30 → 31
 * [ ] Level 31 → 32
 * [ ] Level 32 → 33
