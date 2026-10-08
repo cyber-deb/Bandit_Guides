@@ -267,9 +267,9 @@ My progress through the Bandit levels:
 * [x] Level 27 → 28
 * [x] Level 28 → 29
 * [x] Level 29 → 30
-* [ ] Level 30 → 31
-* [ ] Level 31 → 32
-* [ ] Level 32 → 33
+* [x] Level 30 → 31
+* [x] Level 31 → 32
+* [x] Level 32 → 33
 
 > 🚧 **This repository is actively being updated. More write-ups will be added as I upload my writeups.**
 
@@ -436,15 +436,15 @@ This repository will continue evolving as I progress.
 
 Planned improvements include:
 
-* [ ] Complete all Bandit levels
-* [ ] Improve explanations
+* [x] Complete all Bandit levels
+* [x] Improve explanations
 * [ ] Add command breakdowns
-* [ ] Add Linux concept notes
-* [ ] Add alternative solutions where useful
+* [x] Add Linux concept notes
+* [x] Add alternative solutions where useful
 * [ ] Add common mistakes
-* [ ] Add beginner-friendly explanations
-* [ ] Improve navigation between levels
-* [ ] Add additional cybersecurity learning resources
+* [x] Add beginner-friendly explanations
+* [x] Improve navigation between levels
+* [x] Add additional cybersecurity learning resources
 
 ---
 
